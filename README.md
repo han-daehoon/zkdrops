@@ -1,3 +1,5 @@
+#practice to zkdrops
+
 # zkdrops
 Distributing an airdrop to users is simple if you already have their public keys, but protocols may want to do so according to off-chain activities. Although one could request addresses from users over a public or private channel, many users would prefer not to disclose their public keys. 
 
